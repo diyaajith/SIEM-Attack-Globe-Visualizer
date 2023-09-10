@@ -1,6 +1,6 @@
 <h1>SIEM-Sentinel-Map: Failed RDP to IP Geolocation Information</h1>
 
-<h2>Description</h2>
+<h2>Description </h2>
 <b>The PowerShell script found in this repository carries out the task of extracting details from the Windows Event Log concerning unsuccessful RDP (Remote Desktop Protocol) attempts. It then employs an external API to gather geographical data related to the location of the attackers.
 </b>
 <br />
